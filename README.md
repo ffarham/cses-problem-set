@@ -1,1 +1,1 @@
-The problems are from https://cses.fi/problemset/task/1068.
+The problems are from https://cses.fi/problemset/list.
